@@ -2,4 +2,4 @@
 
 Projects:
 
-- [AWS Video Catalog](https://awsvideocatalog.com/).
+- [AWS Video Catalog](https://awsvideocatalog.com/)
